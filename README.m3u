@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports News HD
+http://jarvis.bet:80/live/Graham1/Graham1/41137.ts
+#EXTINF:-1,Sky Sports Action HD
+http://jarvis.bet:80/live/Graham1/Graham1/41158.ts
+#EXTINF:-1,Sky Sports Arena HD
+http://jarvis.bet:80/live/Graham1/Graham1/41155.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://jarvis.bet:80/live/Graham1/Graham1/41152.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://jarvis.bet:80/live/Graham1/Graham1/41149.ts
+#EXTINF:-1,Sky Sports Football HD
+http://jarvis.bet:80/live/Graham1/Graham1/41146.ts
+#EXTINF:-1,Sky Sports Golf HD
+http://jarvis.bet:80/live/Graham1/Graham1/41143.ts
+#EXTINF:-1,Sky Sports Main Event HD
+http://jarvis.bet:80/live/Graham1/Graham1/41140.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://jarvis.bet:80/live/Graham1/Graham1/41139.ts
+#EXTINF:-1,Sky Sports Premier League HD
+http://jarvis.bet:80/live/Graham1/Graham1/41133.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://jarvis.bet:80/live/Graham1/Graham1/41132.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://jarvis.bet:80/live/Graham1/Graham1/41127.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://jarvis.bet:80/live/Graham1/Graham1/41124.ts
+
